@@ -1,4 +1,4 @@
-# Keyboard animations (for Wich Editor)
+# Keyboard animations για τον [Wick Editor](http://wickeditor.com)
 Εδώ υπάρχουν μια σειρά από project files για τον Wick Editor που δημιουργούν html5 animations για τις πιο χρήσιμες ενέργεις του πληκτρολογίου.
 
 Επίσης υπάρχουν και τα html αρχεία που μπορεί κάποιος να κατεβάσει και να τα χρησιμοποιήσει όπως νομίζει.
